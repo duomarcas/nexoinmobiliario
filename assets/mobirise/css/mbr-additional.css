@@ -1092,20 +1092,6 @@ section.lazy-placeholder:after {
 .cid-sjiCPcLcv4 .mbr-section-btn {
   text-align: center;
 }
-.cid-sjivPm1eGh {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/unnido-apto-tipo2-2000x1177.jpg");
-}
-.cid-sjivPm1eGh .mbr-section-subtitle {
-  color: #465052;
-}
-.cid-sjivPm1eGh .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-sjivPm1eGh H2 {
-  color: #436363;
-}
 .cid-sa8M0M8aIR {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1167,6 +1153,20 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-sjivPm1eGh {
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/unnido-apto-tipo2-2000x1177.jpg");
+}
+.cid-sjivPm1eGh .mbr-section-subtitle {
+  color: #465052;
+}
+.cid-sjivPm1eGh .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-sjivPm1eGh H2 {
+  color: #436363;
+}
 .cid-sjiSQ7fe2R {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -1174,20 +1174,6 @@ section.lazy-placeholder:after {
 }
 .cid-sjiSQ7fe2R P {
   color: #767676;
-}
-.cid-sjiKDOqmpR {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/garita-no2-bosques-de-san-fernando-2000x1125.jpeg");
-}
-.cid-sjiKDOqmpR .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-sjiKDOqmpR .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-sjiKDOqmpR H2 {
-  color: #436363;
 }
 .cid-sjiKKLm13e {
   padding-top: 0px;
@@ -1249,6 +1235,20 @@ section.lazy-placeholder:after {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-sjiKDOqmpR {
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/garita-no2-bosques-de-san-fernando-2000x1125.jpeg");
+}
+.cid-sjiKDOqmpR .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-sjiKDOqmpR .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-sjiKDOqmpR H2 {
+  color: #436363;
 }
 .cid-sjiTikLnQB {
   padding-top: 0px;
